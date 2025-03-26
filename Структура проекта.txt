@@ -1,0 +1,23 @@
+project/
+├── bot.py
+├── config.py
+├── .env
+├── requirements.txt
+├── alembic.ini
+├── migrations/
+│   ├── versions/ (сгенерировано Alembic)
+│   └── env.py
+├── database/
+│   ├── db.py
+│   └── models.py
+├── handlers/
+│   ├── admin_handlers.py
+│   ├── driver_handlers.py
+│   ├── passenger_handlers.py
+│   └── common_handlers.py
+├── services/
+│   ├── database_service.py
+│   └── notification_service.py
+└── utils/
+    ├── keyboards.py
+    └── validators.py
