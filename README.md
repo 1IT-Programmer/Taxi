@@ -9,7 +9,8 @@
 
 bash
 
-git clone https://github.com/your-repo.git
+git clone https://github.com/1IT-Programmer/Taxi.git
+
 cd project
 
    3.Установите зависимости:
